@@ -6,3 +6,4 @@ Google
 Swiggy
 Uber
 PhonePe
+Tesla
