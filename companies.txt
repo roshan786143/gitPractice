@@ -3,8 +3,6 @@ apple
 amazon
 Netflix
 Google
-adobe
-dell
 Swiggy
 Uber
 PhonePe
